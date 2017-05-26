@@ -1,4 +1,4 @@
-# CSS-Palettes
+# CSS Palettes
 The goal of this repository is to establish a collection of standardized css color templates.
 
 ## Usage Example
