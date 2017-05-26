@@ -1,0 +1,17 @@
+/* Netflix, netflix.com */
+:root {
+  --netflix: #E50913;
+  --netflix-font: #FFF;
+  
+  --netflix-snd: #141414;
+  --netflix-snd-font: #FFF;
+  --netflix-snd-font-snd: #808080;
+  
+  --netflix-btn: #E50913;
+  --netflix-btn-font: #FFF;
+  
+  --netflix-btn-snd: #333333;
+  --netflix-btn-snd-font: #FFF;
+  
+  --netflix-a: #999999;
+}
