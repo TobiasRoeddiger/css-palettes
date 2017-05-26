@@ -1,0 +1,17 @@
+/* GitHub, github.com */
+:root {
+  --github: #24292E;
+  --github-font: #C8C9CB;
+  
+  --github-snd: #FFF;
+  --github-snd-font: #000;
+  --github-snd-font-snd: #586069;
+  
+  --github-btn: #F4F6F9;
+  --github-btn-font: #24292E;
+  
+  --github-btn-snd: #2EBB4F;
+  --github-btn-snd-font: #FFF;
+  
+  --github-a: #0366DB;
+}
