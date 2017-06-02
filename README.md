@@ -4,7 +4,7 @@ The goal of this repository is to establish a collection of standardized css col
 ## Usage Example
 ```css
 /* Add refernce to stylesheet in your css file. */
-@import url("http://cdn.css.com/facebook.css");
+@import url("http://cdn.your-domain.com/facebook.css");
 
 /* use in your css definitions */
 .nav {
